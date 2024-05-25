@@ -25,7 +25,7 @@ This web application displays details about random anime fetched from an unoffic
 
 This project utilizes the following technologies and APIs:
 
-- Unofficial MyAnimeList API: [https://myanimelist.net](https://myanimelist.net)
+- Unofficial MyAnimeList API: [https://myanimelist.net](https://myanimelist.net), [https://docs.api.jikan.moe](https://docs.api.jikan.moe/)
 - Express.js: [https://expressjs.com](https://expressjs.com)
 - EJS: [https://ejs.co](https://ejs.co)
 - Bootstrap: [https://getbootstrap.com](https://getbootstrap.com)
